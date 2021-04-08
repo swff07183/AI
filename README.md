@@ -1,3 +1,3 @@
 # AI
 
-[Neural Networks](./PyTorch.md)
+[Neural Networks](/study/PyTorch.md)
